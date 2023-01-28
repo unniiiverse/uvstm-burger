@@ -1,0 +1,1 @@
+.uvstm-burger_trigger{position:relative;z-index:1000}.uvstm-burger-menu{display:block;position:absolute;top:0;right:0;width:100%;height:100%;z-index:999;opacity:0;visibility:hidden;transition:.3s ease-in-out}.uvstm-burger-menu--open .uvstm-burger-menu{opacity:1;visibility:visible}
