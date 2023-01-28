@@ -4,6 +4,15 @@
     z-index: 1000;
   }
 
+  &-trigger_arrow {
+
+    &--top,
+    &--center,
+    &--bottom {
+      transition: .2s ease-in-out;
+    }
+  }
+
   &-menu {
     display: block;
     position: absolute;
@@ -21,6 +30,21 @@
         &-menu {
           opacity: 1;
           visibility: visible;
+          transform: translate(0, 0);
+        }
+
+        &-trigger_arrow {
+          &--top {
+            transform: rotate(45deg) translate(6px, -10px);
+          }
+
+          &--center {
+            opacity: 0;
+          }
+
+          &--bottom {
+            transform: rotate(-45deg) translate(-20px, -3px);
+          }
         }
       }
     }
