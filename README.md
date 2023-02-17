@@ -1,4 +1,4 @@
-# Buger
+# Burger
 ![COVER](./cover.png)
 
 ARIA-accesible burger menu. If you want hide burger trigger when burger menu is open set z-index < 999 to trigger. 
@@ -70,13 +70,13 @@ HTML
 
 CSS
 ```
-https://unniiiverse.github.io/cdn/module/uvstm/buger/@1.0.1/style.min.css
+https://unniiiverse.github.io/cdn/module/uvstm/burger/@1.0.1/style.min.css
 ```
 
 JS
 ```
-https://unniiiverse.github.io/cdn/module/uvstm/buger/@1.0.1/app.min.js
+https://unniiiverse.github.io/cdn/module/uvstm/burger/@1.0.1/app.min.js
 ```
 
-## [CODEPEN](https://codepen.io/unniiiverse/pen/mdjjbPp) [GITHUB](https://github.com/unniiiverse/uvstm-buger)
+## [CODEPEN](https://codepen.io/unniiiverse/pen/mdjjbPp) [GITHUB](https://github.com/unniiiverse/uvstm-burger)
 unniiiverse ©️ 2023
